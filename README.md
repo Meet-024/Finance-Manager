@@ -75,7 +75,7 @@ Expense Manager Python/
 
 ```bash
 git clone <repository-url>
-cd "Expense Manager Python"
+cd "Finance Manager"
 ```
 
 ### 2. Set Up Virtual Environment (Optional)
